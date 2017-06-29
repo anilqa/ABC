@@ -1,0 +1,15 @@
+com\appium\TaylorMadeLib\page\ReviewPage.class
+com\appium\project\businesslogic\GoogleLib.class
+com\appium\TaylorMadeLib\page\CartPage.class
+com\appium\project\businesslogic\TaylorMadeLib.class
+com\appium\TaylorMadeLib\page\CapsPage.class
+com\appium\TaylorMadeLib\page\AccountsPage.class
+com\appium\TaylorMadeLib\page\SearchPage.class
+com\appium\TaylorMadeLib\page\ProductsPage.class
+com\appium\project\businesslogic\TaylorMadeLibWeb.class
+com\appium\project\businesslogic\ProjectLib.class
+com\appium\project\scripts\TestSearchGoogle.class
+com\appium\project\scripts\TestProject.class
+com\appium\TaylorMadeLib\page\OrdersPage.class
+com\appium\project\scripts\TestTaylorMade.class
+com\appium\project\scripts\TestTaylorMadeWeb.class
